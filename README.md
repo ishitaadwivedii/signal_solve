@@ -55,5 +55,7 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature-name`)
 5. Create a Pull Request
 
+### Website: [Signal Solve](https://signalsolve.streamlit.app/)
+Streamlit App
 
 
